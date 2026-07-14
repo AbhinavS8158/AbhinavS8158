@@ -27,7 +27,7 @@ I'm a Flutter developer passionate about building beautiful, high-performance cr
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,figma,postman,nodejs,mongodb" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,figma,postman" />
 
 </div>
 
